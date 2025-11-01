@@ -131,16 +131,16 @@
             <td rowspan="2">6</td>
             <td>1</td>
             <td rowspan="2">Линейные модели: классификация</td>
-            <td rowspan="2">23.10.2025</td>
-            <td>31.10.2025</td>
-            <td><span>Base[UT, PR]</span></td>
-            <td></td>
+            <td rowspan="2">01.11.2025</td>
+            <td>11.11.2025</td>
+            <td><span>Base[PR]</span></td>
+            <td><a href="./tasks/base_task6/">Ссылка</a></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>07.11.2025</td>
+            <td>17.11.2025</td>
             <td><span>Research[UT, PR]</span></td>
-            <td></td>
+            <td><a href="./tasks/research_task4/">Ссылка</a></td>
         </tr>
         <tr>
             <td rowspan="2">7</td>
