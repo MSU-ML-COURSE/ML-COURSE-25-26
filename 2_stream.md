@@ -14,9 +14,9 @@
 | 07.10 | 6 | Практические аспекты машинного обучения: препроцессинг данных, критерии качества и выбор моделей, визуализация | [Ссылка](./slides/2_stream/msu25-pre-post.pdf) | [Ютуб](https://youtu.be/KoeOanwEb60) |
 | 14.10 | 7 | Метод опорных векторов | [Ссылка](./slides/2_stream/msu25-svm.pdf) | [Ютуб](https://youtu.be/wdSbT51_-Bk) |
 | 21.10 | 8 | Нелинейная регрессия, обобщённые линейные модели, логистическая регрессия | [Ссылка](./slides/2_stream/msu25-nonlin-regr.pdf) | [Ютуб](https://youtu.be/37n728-BsPA) |
-| 28.10 | 9 | Логические методы классификации | [Ссылка](./slides/2_stream/msu25-logic.pdf) | |
-| 11.11 | 10 | Линейные ансамбли, бэггинг, случайный лес, бустинг, AdaBoost | [Ссылка](./slides/2_stream/msu25-compos1.pdf) | |
-| 18.11 | 11 | Градиентный бустинг XGBoost, CatBoost, ODT | [Ссылка](./slides/2_stream/msu25-compos2.pdf) | |
+| 28.10 | 9 | Логические методы классификации | [Ссылка](./slides/2_stream/msu25-logic.pdf) | [Ютуб](https://youtu.be/xL82gXJlRAE?si=42c2w5gFhX0cV6-9) |
+| 11.11 | 10 | Линейные ансамбли, бэггинг, случайный лес, бустинг, AdaBoost | [Ссылка](./slides/2_stream/msu25-compos1.pdf) | [Ютуб](https://youtu.be/s-KN8b3inoY?si=sXYsLMReV62q5p3u) |
+| 18.11 | 11 | Градиентный бустинг XGBoost, CatBoost, ODT | [Ссылка](./slides/2_stream/msu25-compos2.pdf) | [Ютуб](https://youtu.be/M74HrojMKy0?si=gxoI_UvAMEt_GxFC) |
 | 25.11 |    | Коллоквиум |  | |
 | 02.12 | 12 | Продвинутые методы ансамблирования |   | |
 | 09.12 | 13 | Инкрементное и онлайновое обучение, адаптивные методы краткосрочного прогнозирования |   | |
