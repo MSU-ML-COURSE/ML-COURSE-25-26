@@ -146,16 +146,16 @@
             <td rowspan="2">7</td>
             <td>1</td>
             <td rowspan="2">SVM</td>
-            <td rowspan="2">27.11.2025</td>
-            <td>05.12.2025</td>
+            <td rowspan="2">01.12.2025</td>
+            <td>08.12.2025</td>
             <td><span>Base[UT, PR]</span></td>
-            <td></td>
+            <td><a href="./tasks/base_task7/">Ссылка</a></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>12.12.2025</td>
-            <td><span>Research[UT, PR]</span></td>
-            <td></td>
+            <td>15.12.2025</td>
+            <td><span>Research[PR]</span></td>
+            <td><a href="./tasks/research_task5/">Ссылка</a></td>
         </tr>
     </tbody>
 </table>
