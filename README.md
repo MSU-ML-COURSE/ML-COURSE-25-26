@@ -157,6 +157,21 @@
             <td><span>Research[PR]</span></td>
             <td><a href="./tasks/research_task5/">Ссылка</a></td>
         </tr>
+        <tr>
+            <td rowspan="2">7</td>
+            <td>1</td>
+            <td rowspan="2">Trees & Ensembles</td>
+            <td rowspan="2">21.02.2026</td>
+            <td>27.02.2026</td>
+            <td><span>Base[UT, PR]</span></td>
+            <td><a href="./tasks/base_task8/">Ссылка</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>06.03.2026</td>
+            <td><span>Research[UT, PR]</span></td>
+            <td><a href="./tasks/research_task6/">Ссылка</a></td>
+        </tr>
     </tbody>
 </table>
 
