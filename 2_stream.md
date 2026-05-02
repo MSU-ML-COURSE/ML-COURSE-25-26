@@ -35,8 +35,8 @@
 | 24.03 | 21 | Мягкая би-кластеризация — Вероятностное тематическое моделирование, регуляризация тематических моделей. | [Ссылка](./slides/2_stream/msu26-tm.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/Ozr1hrj0HJkKPQ) |
 | 31.03 | 22 | Матричные разложения и рекомендательные системы | [Ссылка](./slides/2_stream/msu26-rs-mf.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/zDHlkA5vUhS7Dw) |
 | 07.04 | 23 | Обучение ранжированию | [Ссылка](./slides/2_stream/msu26-ranking.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/OC5-Tf_lFrR0LA) |
-| 14.04 | 24 | Робастное оценивание и детектирование аномалий |  |  |
-| 21.04 |    | Коллоквиум |  |  |
-| 28.04 | 25 | Активное обучение и краудсорсинг |  |  |
-| 05.05 | 26 | Обучение с подкреплением |  |  |
+| 14.04 | 24 | Робастное оценивание и детектирование аномалий | [Ссылка](./slides/2_stream/msu26-outlier.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/3gAome16WkzVUQ) |
+| 21.04 | 25 | Активное обучение и краудсорсинг | [Ссылка](./slides/2_stream/msu26-active.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/6Hq3lvpnX1ykKg) |
+| 28.04 | 26 | Обучение с подкреплением | [Ссылка](./slides/2_stream/msu26-reinforce.pdf) | Ютуб(TDB) [YaDisk](https://disk.360.yandex.ru/i/EOFp1d0mneCUZQ) |
+| 05.05 |    | Коллоквиум |  |  |
 | 12.05 | 27 | Объяснимый AI и интерпретируемый ML |  |  |
